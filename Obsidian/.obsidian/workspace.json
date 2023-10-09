@@ -1,0 +1,383 @@
+{
+  "main": {
+    "id": "acc79b320b344667",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ac7ef856bf149e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35e9407690c9b057",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f95eab02d64d396b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theories/坎陷理论.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6434265c9c247ecb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theories/坎陷理论.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82b2d5eb445f3d45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Persons/蔡恒进 hjcai.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8094f838426dd89d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theories/X理论.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f694ca88689fcb40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Persons/纽约老熊 (niuyuelaoxiong).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "adcfada459265aec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theories/ACE理论.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "622df90fa120d96f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theories/ACE理论.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9598b844fcdc75d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theories/坎陷理论.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c880ab07d423670a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Persons/纽约老熊 (niuyuelaoxiong).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbe85aa801ff1443",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Persons/弦客.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ca79d1b5b2892d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识点/共现性.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65e4ad7579814b2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识点/IIT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd56b4b579f33be8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Persons/醒客.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff0e34a0787ec994",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Persons/黄岱永（hello_huangs）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6fbf06b81c05b03d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识点/因果性.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e312810f81d8ae5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theories/因果凝聚.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2b799960af73e67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theories/因果凝聚.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1dd6c1a55f5402d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识点/GWT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 18
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "60cdf3509a79a552",
+    "type": "split",
+    "children": [
+      {
+        "id": "7801a5e9e38a28ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a265654bd992d18",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a6f8a7a014cf0385",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3054866f754e21be",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "331a3271747fadf6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7dbafaaf527a24e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0a20209178ced52",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "知识点/GWT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "df9104e7d3dab8d4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "知识点/GWT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5932a19077527b89",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9773d27059292570",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "知识点/GWT.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "1dd6c1a55f5402d5",
+  "lastOpenFiles": [
+    "Theories/因果凝聚.md",
+    "知识点/GWT.md",
+    "Theories/X理论.md",
+    "Persons/赛博佛客 (Cyberforker).md",
+    "Persons/纽约老熊 (niuyuelaoxiong).md",
+    "Persons/蔡恒进 hjcai.md",
+    "Persons/黄岱永（hello_huangs）.md",
+    "Persons/狼道.md",
+    "知识点/因果性.md",
+    "Persons/醒客.md",
+    "Persons/弦客.md",
+    "知识点/存在性.md",
+    "知识点/IIT.md",
+    "知识点/共现性.md",
+    "知识点/砍陷.md",
+    "Theories/坎陷理论.md",
+    "Theories/ACE理论.md",
+    "知识点",
+    "Theories/整合.md"
+  ]
+}
