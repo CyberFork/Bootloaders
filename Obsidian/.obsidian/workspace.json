@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theories/X理论.md",
+                "file": "Theories/X-form理论.md",
                 "mode": "source",
                 "source": false
               }
@@ -542,9 +542,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "60af146d5b7bb311",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识点/SEC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da296badbb62bb3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识点/复杂科学.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6945af418dfb580c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识点/CAS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56be9c9aabeff129",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识点/小世界网络.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3623733a06287eab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theories/世界拼图模型.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 44
+        "currentTab": 49
       }
     ],
     "direction": "vertical"
@@ -610,7 +670,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识点/范畴论.md",
+                "file": "Theories/世界拼图模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -627,7 +687,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识点/范畴论.md",
+                "file": "Theories/世界拼图模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -650,7 +710,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识点/范畴论.md"
+                "file": "Theories/世界拼图模型.md"
               }
             }
           }
@@ -670,11 +730,27 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2ffd530109342595",
+  "active": "3623733a06287eab",
   "lastOpenFiles": [
-    "知识点/无标度网络.md",
     "知识点/小世界网络.md",
-    "聚集系数.md",
+    "Theories/世界拼图模型.md",
+    "知识点/无标度网络.md",
+    "知识点/函数.md",
+    "知识点/建构.md",
+    "知识点/坎陷.md",
+    "Theories/X-form理论.md",
+    "知识点/智能的能动性.md",
+    "知识点/复馈.md",
+    "Theories/ACE理论.md",
+    "Theories/坎陷理论.md",
+    "Theories/千脑智能.md",
+    "Theories/因果凝聚.md",
+    "知识点/CAS.md",
+    "Persons/张江.md",
+    "知识点/复杂科学.md",
+    "知识点/SEC.md",
+    "知识点/范畴论.md",
+    "知识点/聚集系数.md",
     "知识点/定域性.md",
     "知识点/叠加体.md",
     "知识点/dLoop.md",
@@ -682,22 +758,6 @@
     "知识点/IIT.md",
     "知识点/整合.md",
     "Persons/苑明理.md",
-    "Persons/赛博佛客 (Cyberforker).md",
-    "知识点/复馈.md",
-    "知识点/归约.md",
-    "知识点/存在性.md",
-    "知识点/马尔可夫性质.md",
-    "知识点/阿什比定律.md",
-    "知识点/坎陷.md",
-    "知识点/建构.md",
-    "知识点/函数.md",
-    "知识点/Loop.md",
-    "知识点/智能体的能动.md",
-    "Theories/坎陷理论.md",
-    "Persons/狼道.md",
-    "Theories/因果凝聚.md",
-    "知识点/参考系.md",
-    "Theories/千脑智能.md",
     "未命名.canvas",
     "资源/因果凝聚-狼道-粗粒化.pdf",
     "资源/Pasted image 20231010104259.png",
