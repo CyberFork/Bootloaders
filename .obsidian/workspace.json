@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "释迦摩尼.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "释迦摩尼.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "释迦摩尼.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "释迦摩尼.md"
+                "file": "README.md"
               }
             }
           }
@@ -316,14 +316,16 @@
   },
   "active": "2c70bc41078ecd3e",
   "lastOpenFiles": [
-    "自我.md",
+    "满射.md",
+    "双射.md",
+    "单射.md",
     "释迦摩尼.md",
+    "自我.md",
     "所指.md",
     "Obsidian/z资源/Pasted image 20231017224616.png",
     "能指.md",
     "Obsidian/KnowledgePoint-知识点与定义/阿什比定律.md",
     "Obsidian/Example-例子/语言是一种高阶表征.md",
-    "单射.md",
     "Obsidian/z资源/Pasted image 20231017121120.png",
     "Obsidian/z资源/Pasted image 20231010104259.png",
     "Obsidian/z资源/因果凝聚-狼道-粗粒化.pdf",
@@ -341,8 +343,6 @@
     "Obsidian/Theories-理论/ACE理论.md",
     "Obsidian/KnowledgePoint-知识点与定义/自指.md",
     "Obsidian/KnowledgePoint-知识点与定义/范畴论.md",
-    "双射.md",
-    "满射.md",
     "Obsidian/KnowledgePoint-知识点与定义/因果性.md",
     "Obsidian/KnowledgePoint-知识点与定义/链结构.md",
     "Obsidian/KnowledgePoint-知识点与定义/复杂系统.md",
