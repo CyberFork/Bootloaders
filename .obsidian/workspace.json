@@ -119,9 +119,23 @@
             "id": "9dd38cd8d85c1e74",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian/z资源/Pasted image 20231017224616.png"
+                "file": "释迦摩尼.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c70bc41078ecd3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "释迦摩尼.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -174,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -240,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/z资源/Pasted image 20231017224616.png",
+                "file": "释迦摩尼.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/z资源/Pasted image 20231017224616.png",
+                "file": "释迦摩尼.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/z资源/Pasted image 20231017224616.png"
+                "file": "释迦摩尼.md"
               }
             }
           }
@@ -300,12 +314,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9dd38cd8d85c1e74",
+  "active": "2c70bc41078ecd3e",
   "lastOpenFiles": [
+    "自我.md",
+    "释迦摩尼.md",
     "所指.md",
+    "Obsidian/z资源/Pasted image 20231017224616.png",
     "能指.md",
     "Obsidian/KnowledgePoint-知识点与定义/阿什比定律.md",
-    "Obsidian/z资源/Pasted image 20231017224616.png",
     "Obsidian/Example-例子/语言是一种高阶表征.md",
     "单射.md",
     "Obsidian/z资源/Pasted image 20231017121120.png",
@@ -320,9 +336,7 @@
     "Obsidian/z资源/Pasted image 20231017120124.png",
     "Obsidian/KnowledgePoint-知识点与定义/高阶表征.md",
     "Obsidian/KnowledgePoint-知识点与定义/因果结构.md",
-    "自我.md",
     "Obsidian/Example-例子",
-    "释迦摩尼.md",
     "Obsidian/Persons-人物/休谟.md",
     "Obsidian/Theories-理论/ACE理论.md",
     "Obsidian/KnowledgePoint-知识点与定义/自指.md",
