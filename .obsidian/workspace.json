@@ -145,7 +145,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Persons-人物/释迦摩尼.md",
+                "file": "Obsidian/KnowledgePoint-知识点与定义/满射.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebe3cd783fbe9217",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/KnowledgePoint-知识点与定义/复杂系统.md",
                 "mode": "source",
                 "source": false
               }
@@ -248,7 +260,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -277,7 +289,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "复杂",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -294,7 +306,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -314,7 +327,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Persons-人物/释迦摩尼.md",
+                "file": "Obsidian/KnowledgePoint-知识点与定义/复杂系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,7 +344,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Persons-人物/释迦摩尼.md",
+                "file": "Obsidian/KnowledgePoint-知识点与定义/复杂系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -354,7 +367,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Persons-人物/释迦摩尼.md"
+                "file": "Obsidian/KnowledgePoint-知识点与定义/复杂系统.md"
               }
             }
           }
@@ -374,22 +387,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c4ba44f5711f7720",
+  "active": "ebe3cd783fbe9217",
   "lastOpenFiles": [
+    "自由能.md",
+    "README.md",
+    "Obsidian/KnowledgePoint-知识点与定义/满射.md",
+    "Obsidian/KnowledgePoint-知识点与定义/范畴论.md",
+    "Obsidian/Persons-人物/释迦摩尼.md",
     "Obsidian/KnowledgePoint-知识点与定义/单射.md",
     "Obsidian/KnowledgePoint-知识点与定义/双射.md",
-    "Obsidian/KnowledgePoint-知识点与定义/满射.md",
     "Obsidian/KnowledgePoint-知识点与定义/自我.md",
     "Obsidian/KnowledgePoint-知识点与定义/对象.md",
     "Obsidian/KnowledgePoint-知识点与定义/时空层利.md",
     "Obsidian/KnowledgePoint-知识点与定义/态射.md",
-    "Obsidian/KnowledgePoint-知识点与定义/范畴论.md",
     "Obsidian/KnowledgePoint-知识点与定义/复杂系统.md",
     "Obsidian/KnowledgePoint-知识点与定义/复杂系统 1.md",
     "Obsidian/KnowledgePoint-知识点与定义/所指.md",
     "Obsidian/KnowledgePoint-知识点与定义/能指.md",
-    "README.md",
-    "Obsidian/Persons-人物/释迦摩尼.md",
     "Obsidian/z资源/Pasted image 20231017224616.png",
     "Obsidian/KnowledgePoint-知识点与定义/阿什比定律.md",
     "Obsidian/Example-例子/语言是一种高阶表征.md",
@@ -412,7 +426,6 @@
     "Obsidian/KnowledgePoint-知识点与定义/因果性.md",
     "Obsidian/KnowledgePoint-知识点与定义/链结构.md",
     "Obsidian/Persons-人物/王桢.md",
-    "Obsidian/KnowledgePoint-知识点与定义/特征.md",
-    "Obsidian/KnowledgePoint-知识点与定义/意识.md"
+    "Obsidian/KnowledgePoint-知识点与定义/特征.md"
   ]
 }
