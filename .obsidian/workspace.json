@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/KnowledgePoint-知识点与定义/复杂系统.md",
+                "file": "Obsidian/KnowledgePoint-知识点与定义/意识.md",
                 "mode": "source",
                 "source": false
               }
@@ -289,7 +289,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "复杂",
+                "query": "自指",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -327,7 +327,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/KnowledgePoint-知识点与定义/复杂系统.md",
+                "file": "Obsidian/KnowledgePoint-知识点与定义/意识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -344,7 +344,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/KnowledgePoint-知识点与定义/复杂系统.md",
+                "file": "Obsidian/KnowledgePoint-知识点与定义/意识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -367,7 +367,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/KnowledgePoint-知识点与定义/复杂系统.md"
+                "file": "Obsidian/KnowledgePoint-知识点与定义/意识.md"
               }
             }
           }
@@ -387,8 +387,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ebe3cd783fbe9217",
+  "active": "ac7cfb15bc0bf826",
   "lastOpenFiles": [
+    "Obsidian/KnowledgePoint-知识点与定义/复杂系统.md",
     "自由能.md",
     "README.md",
     "Obsidian/KnowledgePoint-知识点与定义/满射.md",
@@ -400,7 +401,6 @@
     "Obsidian/KnowledgePoint-知识点与定义/对象.md",
     "Obsidian/KnowledgePoint-知识点与定义/时空层利.md",
     "Obsidian/KnowledgePoint-知识点与定义/态射.md",
-    "Obsidian/KnowledgePoint-知识点与定义/复杂系统.md",
     "Obsidian/KnowledgePoint-知识点与定义/复杂系统 1.md",
     "Obsidian/KnowledgePoint-知识点与定义/所指.md",
     "Obsidian/KnowledgePoint-知识点与定义/能指.md",
