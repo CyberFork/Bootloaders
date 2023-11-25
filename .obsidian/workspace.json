@@ -157,7 +157,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/KnowledgePoint-知识点与定义/意识.md",
+                "file": "Obsidian/KnowledgePoint-知识点与定义/定域性.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db3d2562b54d7a8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Example-例子/叠加体&量子&定域性系统的同构.md",
                 "mode": "source",
                 "source": false
               }
@@ -260,7 +272,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -289,7 +301,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "自指",
+                "query": "定域",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -306,8 +318,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -327,7 +338,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/KnowledgePoint-知识点与定义/意识.md",
+                "file": "Obsidian/Example-例子/叠加体&量子&定域性系统的同构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -344,7 +355,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/KnowledgePoint-知识点与定义/意识.md",
+                "file": "Obsidian/Example-例子/叠加体&量子&定域性系统的同构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -367,7 +378,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/KnowledgePoint-知识点与定义/意识.md"
+                "file": "Obsidian/Example-例子/叠加体&量子&定域性系统的同构.md"
               }
             }
           }
@@ -387,8 +398,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ac7cfb15bc0bf826",
+  "active": "dd3f2ba38df3f106",
   "lastOpenFiles": [
+    "Obsidian/KnowledgePoint-知识点与定义/叠加体.md",
+    "Obsidian/Example-例子/叠加体&量子&定域性系统的同构.md",
+    "Obsidian/KnowledgePoint-知识点与定义/无标度网络.md",
+    "Obsidian/KnowledgePoint-知识点与定义/小世界网络.md",
+    "Obsidian/KnowledgePoint-知识点与定义/定域性.md",
+    "Obsidian/KnowledgePoint-知识点与定义/意识.md",
     "Obsidian/KnowledgePoint-知识点与定义/复杂系统.md",
     "自由能.md",
     "README.md",
@@ -420,12 +437,6 @@
     "Obsidian/KnowledgePoint-知识点与定义/高阶表征.md",
     "Obsidian/KnowledgePoint-知识点与定义/因果结构.md",
     "Obsidian/Example-例子",
-    "Obsidian/Persons-人物/休谟.md",
-    "Obsidian/Theories-理论/ACE理论.md",
-    "Obsidian/KnowledgePoint-知识点与定义/自指.md",
-    "Obsidian/KnowledgePoint-知识点与定义/因果性.md",
-    "Obsidian/KnowledgePoint-知识点与定义/链结构.md",
-    "Obsidian/Persons-人物/王桢.md",
-    "Obsidian/KnowledgePoint-知识点与定义/特征.md"
+    "Obsidian/Persons-人物/休谟.md"
   ]
 }
