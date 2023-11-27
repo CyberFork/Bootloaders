@@ -225,7 +225,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "张量积.md",
+                "file": "kan扩张.md",
                 "mode": "source",
                 "source": false
               }
@@ -394,7 +394,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "张量积.md",
+                "file": "kan扩张.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -411,7 +411,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "张量积.md",
+                "file": "kan扩张.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -434,7 +434,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "张量积.md"
+                "file": "kan扩张.md"
               }
             }
           }
@@ -456,8 +456,8 @@
   },
   "active": "44e3bfba56e4c213",
   "lastOpenFiles": [
-    "kan扩张.md",
     "张量积.md",
+    "kan扩张.md",
     "Obsidian/KnowledgePoint-知识点与定义/涌现.md",
     "渗透理论.md",
     "自由能.md",
